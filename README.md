@@ -12,7 +12,7 @@
   node Allen.js Allen
 ```
 
-#### To mrun the client - Bob
+#### To run the client - Bob
 
 ```
   node bob.js Bob
